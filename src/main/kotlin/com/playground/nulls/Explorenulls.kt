@@ -1,15 +1,15 @@
 package com.playground.nulls
 
-data class Movie (
+data class Movie(
     val id: Int?,
     val name: String?
 )
 
-fun printName(name: String)  {
+fun printName(name: String) {
     println("Name is: $name")
 }
 
-fun printName1(name: String)  {
+fun printName1(name: String) {
     println("Name is: $name")
 }
 
@@ -37,7 +37,7 @@ fun main() {
     var nameNotNullable: String = "Dilipd"
 //    nameNotNullable = null NOT ALLOWED
 
-    val movie : Movie = Movie(null, "Shrek")
+    val movie: Movie = Movie(null, "Shrek")
     println(movie)
     val savedMovie = saveMovie(movie)
     println(savedMovie.id!!) // not null assestions !! non-null
@@ -46,6 +46,6 @@ fun main() {
 
 }
 
-fun saveMovie(movie: Movie) : Movie {
+fun saveMovie(movie: Movie): Movie {
     return movie.copy(id = 1)
 }
