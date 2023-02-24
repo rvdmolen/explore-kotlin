@@ -61,6 +61,8 @@ fun main() {
         .age(35)
         .build()
 
+   // val test = Person("fvdfvd", 67)
+
 
     println(tesPerson)
 }
