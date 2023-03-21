@@ -3,8 +3,6 @@ n
 >src/main/kotlin/com/playground/functions/HighOrderFunctions.kt,5/5/556fafe9c199335e9d78a3efaf3cbaf0b1f90c88
 ]
 -src/main/kotlin/com/playground/Application.kt,f/f/ff86e27f7241882a81be46219bed258b98613014
-7
-gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
 V
 &src/main/kotlin/com/playground/Main.kt,3/3/3319c2c69096d4aa0cdbbf1389aa4b75b8ab06dc
 b
@@ -22,17 +20,11 @@ j
 h
 8src/main/kotlin/com/playground/dataset/CourseCategory.kt,4/9/49567b01708a3e8711dae29ff2ce436fc3ef035b
 d
-4src/main/kotlin/com/playground/dataset/Instructor.kt,9/5/95a5d3f86b69130a6918d1e96a497be051a89753
-d
 4src/main/kotlin/com/playground/dataset/CourseUtil.kt,9/5/95fe9dc152dd938e4aa3c2ba6b90c2d639952f36
 i
 9src/main/kotlin/com/playground/lambdas/ExploreLambdas2.kt,b/a/ba0d661883bc7767576b5dbce55cbdeee7272406
 h
 8src/main/kotlin/com/playground/lambdas/ExploreLambdas.kt,b/c/bc5e92f45c36628496b42f50fc7de85bebe2e592
-p
-@src/main/kotlin/com/playground/collections/ExploreCollections.kt,5/7/57f7c0bf268d4c6f4d6bf0b0a85a426b940bf974
-r
-Bsrc/main/kotlin/com/playground/collections/CollectionOperations.kt,6/b/6b59af72ea8589e9b38116d59f8e658b6ca98563
 p
 @src/main/kotlin/com/playground/collections/NullAbleCollection.kt,b/5/b56df2ce59ebf6b09bd6f2417a3645eafdbc466e
 d
@@ -55,5 +47,3 @@ c
 3src/main/kotlin/com/playground/basics/Conditions.kt,e/c/ec645caff7098be1b8077c9159195330c01e3e61
 d
 4src/main/kotlin/com/playground/functions/TopLevel.kt,7/9/7921f7c227c65181f23efad98233994e5c5cdcb1
-@
-build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
