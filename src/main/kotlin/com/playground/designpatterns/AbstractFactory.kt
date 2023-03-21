@@ -1,5 +1,5 @@
 package com.playground.designpatterns
-
+// https://blog.logrocket.com/understanding-kotlin-design-patterns/
 
 interface Weapon {
     fun use(): String

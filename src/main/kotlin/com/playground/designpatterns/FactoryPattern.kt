@@ -1,4 +1,5 @@
 package com.playground.designpatterns
+// https://blog.logrocket.com/understanding-kotlin-design-patterns/
 
 // Java style factory pattern
 // =====================================
@@ -62,6 +63,7 @@ fun main() {
         .build()
 
    // val test = Person("fvdfvd", 67)
+   // val tesPerson2 = Person(name = "Pipo")
 
 
     println(tesPerson)
